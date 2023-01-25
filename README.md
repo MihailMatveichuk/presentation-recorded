@@ -1,6 +1,8 @@
 # presentation-recorded
-1. npm install
+1. Clone git@github.com:MihailMatveichuk/presentation-recorded.git
 
-2. npm start
+2. cd presentation-recorded && npm install
 
-3. Open http://localhost:8000 to view your presentation
+3. npm start
+
+4. Open http://localhost:8000 to view your presentation
