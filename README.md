@@ -1,5 +1,5 @@
 # presentation-recorded
-1. Clone git@github.com:MihailMatveichuk/presentation-recorded.git
+1. git clone https://github.com/MihailMatveichuk/presentation-recorded.git
 
 2. cd presentation-recorded && npm install
 
